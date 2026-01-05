@@ -1,0 +1,14 @@
+{
+    "name": "SiteSetting",
+    "alias": "site-setting",
+    "description": "Site settings management module",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "App\\Modules\\SiteSetting\\Providers\\SiteSettingModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
+
