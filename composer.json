@@ -2,7 +2,7 @@
     "name": "faysal0x1/site-setting-module",
     "description": "Site setting module (business info, social links, etc.) for Laravel.",
     "type": "laravel-module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "keywords": [
         "laravel",
@@ -22,11 +22,7 @@
     "autoload": {
         "psr-4": {
             "App\\Modules\\SiteSetting\\": ""
-        },
-        "classmap": [
-            "database/seeders",
-            "database/factories"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
