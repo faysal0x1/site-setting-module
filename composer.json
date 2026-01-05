@@ -2,6 +2,7 @@
     "name": "faysal0x1/site-setting-module",
     "description": "Site setting module (business info, social links, etc.) for Laravel.",
     "type": "laravel-module",
+    "version": "1.0.0",
     "license": "MIT",
     "keywords": [
         "laravel",
